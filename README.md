@@ -14,4 +14,4 @@
 
 # TODO
 
-  [ ] Add input field to change the city (now you have to change line 19 in the WeatherApp.js file)
+- [ ] Add input field to change the city (now you have to change line 19 in the WeatherApp.js file)
